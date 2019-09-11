@@ -1,0 +1,8 @@
+{
+  "name": "Randify-Frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mattusdk/Randify-Frontend.git",
+  "author": "Matthew Peterson <matthew.peterson@hr-on.com>",
+  "license": "MIT"
+}
